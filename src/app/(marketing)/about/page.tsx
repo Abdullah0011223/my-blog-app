@@ -19,7 +19,7 @@ const About = () => {
         <div className="flex-1 md:ml-8 mt-4 md:mt-0">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">Our Story</h2>
           <p className="text-gray-600 text-lg font-medium mb-4">
-            Hey, I&apos;m a Senior Student at GIAIC. I&apos;m learning and enjoy working with Next.js-15, 
+            Hey, I&apos;m a Student at GIAIC. I&apos;m learning and enjoy working with Next.js-15, 
             TypeScript or Tailwind and crafting beautiful front-end experiences.
           </p>
 
